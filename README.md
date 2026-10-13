@@ -1,2 +1,2 @@
-# hello-world
-My first repository. Praticando Git e Github
+# Hello World
+My first repository. Praticece Git and Github
